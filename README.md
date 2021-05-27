@@ -15,3 +15,7 @@ Third, human users then select two most revealing dimensions so that a matrix of
 These three intervention points provide helpful exploration tools to help human users see, select, and manipulate the neighborhood of the data-point-of-interest and the decision boundary within it and therefore better understand the behavior of the underlying model. 
 
 Three examples are provided in this repo to illustrate this method.
+
+## Publication
+
+* https://conf.researchr.org/details/wain-2021/wain-2021-papers/32/Verbatim-Machine-Learning-Model-Manifestation-in-Manageable-Neighborhoods
